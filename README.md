@@ -1,0 +1,2 @@
+This project simulates how a Cherenkov gamma-ray telescope detects high-energy gamma particles. The telescope captures Cherenkov radiation (light emitted by charged particles in atmospheric showers) and records it using an array of sensors. The resulting shower images help distinguish true gamma-ray signals from background cosmic rays.
+Scientists analyze these images using Principal Component Analysis (PCA) to extract key features like shape, orientation, and brightness. These characteristics help identify and classify gamma-ray events while filtering out noise.
